@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moonshots on DELIGHTFUL</title>
+    <link>localhost:1313/moonshots/</link>
+    <description>Recent content in Moonshots on DELIGHTFUL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="localhost:1313/moonshots/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alice</title>
+      <link>localhost:1313/moonshots/alice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/moonshots/alice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amy</title>
+      <link>localhost:1313/moonshots/amy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/moonshots/amy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chris</title>
+      <link>localhost:1313/moonshots/chris/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/moonshots/chris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erinn</title>
+      <link>localhost:1313/moonshots/erinn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/moonshots/erinn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iliana</title>
+      <link>localhost:1313/moonshots/iliana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/moonshots/iliana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isaiah</title>
+      <link>localhost:1313/moonshots/isaiah/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/moonshots/isaiah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>James</title>
+      <link>localhost:1313/moonshots/james/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/moonshots/james/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kendal</title>
+      <link>localhost:1313/moonshots/kendal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/moonshots/kendal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lalitha</title>
+      <link>localhost:1313/moonshots/lalitha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/moonshots/lalitha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Will</title>
+      <link>localhost:1313/moonshots/will/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/moonshots/will/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yefri</title>
+      <link>localhost:1313/moonshots/yefri/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/moonshots/yefri/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
