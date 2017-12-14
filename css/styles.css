@@ -1,0 +1,95 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    background-color: #eff1fc;
+}
+h2 {
+    font-family: 'Lato', sans-serif;
+    font-size: 1.3em;
+}
+p {
+    color: #1e1e1e;
+}
+
+.hero-container {
+    position: relative;
+    width: 100%;
+}
+
+#hero-text {
+    position: absolute; 
+    top: 130px; 
+    z-index: 999;
+    left: 0; 
+    width: 100%; 
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    color: #4F5165;
+    font-size: 700%;
+    background: -webkit-linear-gradient(right, #6a6c89 , #4F5165);
+    background: -o-linear-gradient(left, #6a6c89, #4F5165);
+    background: -moz-linear-gradient(left, #6a6c89, #4F5165);
+    background: linear-gradient(to left, #6a6c89,  #4F5165); 
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#hero-image {
+    display: block;
+    margin: auto;
+    margin-top: 25px;
+    opacity: .5;
+    width: 50%;
+    background-image: url("img/super-moon.png");
+}
+
+/* Classes */
+.avatar {
+    border-radius: 50%;
+}
+.column {
+    text-align: center;
+}
+.subtext {
+    padding: 0.2em;
+}
+
+/* IDs */
+#header {
+    padding: 1em 0;
+}
+#footer {
+    height: 50px;
+}
+#main {
+    min-height: 100%;
+    margin-bottom: -50px;
+}
+#nav-target {
+    padding: 1em 0;
+}
+
+#nav-text {
+}
+
+/*
+#container {
+  height: 400px;
+  width: 400px;
+  position: relative;
+}
+#image {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+#text {
+  z-index: 100;
+  position: absolute;
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  left: 150px;
+  top: 350px;
+}*/
