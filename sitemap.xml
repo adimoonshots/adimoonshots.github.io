@@ -3,71 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>localhost:1313/moonshots/alice/</loc>
+    <loc>adimoonshots.github.io/moonshots/alice/</loc>
   </url>
   
   <url>
-    <loc>localhost:1313/moonshots/amy/</loc>
+    <loc>adimoonshots.github.io/moonshots/amy/</loc>
   </url>
   
   <url>
-    <loc>localhost:1313/categories/</loc>
+    <loc>adimoonshots.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>localhost:1313/moonshots/chris/</loc>
+    <loc>adimoonshots.github.io/moonshots/chris/</loc>
   </url>
   
   <url>
-    <loc>localhost:1313/</loc>
+    <loc>adimoonshots.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>localhost:1313/moonshots/erinn/</loc>
+    <loc>adimoonshots.github.io/moonshots/erinn/</loc>
   </url>
   
   <url>
-    <loc>localhost:1313/moonshots/iliana/</loc>
+    <loc>adimoonshots.github.io/moonshots/iliana/</loc>
   </url>
   
   <url>
-    <loc>localhost:1313/moonshots/isaiah/</loc>
+    <loc>adimoonshots.github.io/moonshots/isaiah/</loc>
   </url>
   
   <url>
-    <loc>localhost:1313/moonshots/james/</loc>
+    <loc>adimoonshots.github.io/moonshots/james/</loc>
   </url>
   
   <url>
-    <loc>localhost:1313/temp/</loc>
+    <loc>adimoonshots.github.io/temp/</loc>
   </url>
   
   <url>
-    <loc>localhost:1313/moonshots/kendal/</loc>
+    <loc>adimoonshots.github.io/moonshots/kendal/</loc>
   </url>
   
   <url>
-    <loc>localhost:1313/moonshots/lalitha/</loc>
+    <loc>adimoonshots.github.io/moonshots/lalitha/</loc>
   </url>
   
   <url>
-    <loc>localhost:1313/moonshots/</loc>
+    <loc>adimoonshots.github.io/moonshots/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>localhost:1313/tags/</loc>
+    <loc>adimoonshots.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>localhost:1313/moonshots/will/</loc>
+    <loc>adimoonshots.github.io/moonshots/will/</loc>
   </url>
   
   <url>
-    <loc>localhost:1313/moonshots/yefri/</loc>
+    <loc>adimoonshots.github.io/moonshots/yefri/</loc>
   </url>
   
 </urlset>
