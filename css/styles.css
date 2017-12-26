@@ -16,7 +16,7 @@ p {
     width: 100%;
 }
 
-#hero-text, #hero-text a {
+#hero-text {
     position: absolute; 
     top: 60px; 
     z-index: 999;
